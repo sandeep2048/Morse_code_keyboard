@@ -1,0 +1,83 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:6:5-37
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:3:5-63
+	android:versionCode
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:5:5-29
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:8:5-35:23
+	android:label
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:9:9-41
+	android:installLocation
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:12:9-47
+	android:icon
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:10:9-42
+	android:allowBackup
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:11:9-35
+service#com.sanson.dotdash.DotDashIMEService
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:14:9-24:19
+	android:permission
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:16:13-70
+	android:name
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:15:13-64
+intent-filter#action:name:android.view.InputMethod
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:18:13-20:29
+action#android.view.InputMethod
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:19:17-67
+	android:name
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:19:25-64
+meta-data#android.view.im
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:21:13-23:50
+	android:resource
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:23:17-47
+	android:name
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:22:17-47
+activity#com.sanson.dotdash.DotDashPrefs
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:25:9-34:20
+	android:label
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:26:13-45
+	android:theme
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:28:13-46
+	android:name
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:27:13-59
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:30:14-33:29
+action#android.intent.action.MAIN
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		ADDED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml
+		INJECTED from /home/indus/AndroidStudioProjects/Morsecode/app/src/main/AndroidManifest.xml

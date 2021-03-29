@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable_download.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable/download.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/xml_dotdash.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/xml/dotdash.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_keyboard_background_holo.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/xml_prefs.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/xml/prefs.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_dotdash_shift_off_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/dotdash_shift_off_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_keyboard_background_holo.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/layout_input.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/layout/input.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_sym_keyboard_space.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_dotdash_shift_off_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/dotdash_shift_off_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_space_invert.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/sym_keyboard_space_invert.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/layout_cheatsheet2.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/layout/cheatsheet2.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_keyboard_key_normal_holo_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/btn_keyboard_key_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/xml_utilitykeyboard.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/xml/utilitykeyboard.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_delete_invert.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/sym_keyboard_delete_invert.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_keyboard_key_normal_holo_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/btn_keyboard_key_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_dotdash_shift_on_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/dotdash_shift_on_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_dotdash_shift_on.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/dotdash_shift_on.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_dot.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/sym_keyboard_dot.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_dotdash_shift_on.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/dotdash_shift_on.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_space.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_dash.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/sym_keyboard_dash.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_space_invert.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/sym_keyboard_space_invert.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable_sym_keyboard_space.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_keyboard_background_holo.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_dotdash_shift_off.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/dotdash_shift_off.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_space.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/sym_keyboard_space.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_delete.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_dotdash_shift_on_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/dotdash_shift_on_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_dotdash_shift_off.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/dotdash_shift_off.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_dotdash_shift_off.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/dotdash_shift_off.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_dotdash_shift_on.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/dotdash_shift_on.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_keyboard_key_pressed_klp_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/btn_keyboard_key_pressed_klp_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable_sym_keyboard_delete.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_dotdash_shift_off.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/dotdash_shift_off.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/xml_method.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/xml/method.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_keyboard_key_pressed_klp_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/btn_keyboard_key_pressed_klp_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_delete.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/sym_keyboard_delete.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable_dotdash_key.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable/dotdash_key.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_dotdash_shift_on_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/dotdash_shift_on_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_delete_invert.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/sym_keyboard_delete_invert.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_dotdash_shift_on_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/dotdash_shift_on_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_sym_keyboard_dash.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/sym_keyboard_dash.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/layout_cheatsheet1.xml.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/layout/cheatsheet1.xml"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_sym_keyboard_dot.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/sym_keyboard_dot.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_keyboard_background_holo.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/keyboard_background_holo.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_btn_keyboard_key_normal_holo_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/btn_keyboard_key_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_dotdash_shift_on.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/dotdash_shift_on.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xhdpi_dotdash_shift_off_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xhdpi/dotdash_shift_off_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_btn_keyboard_key_normal_holo_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/btn_keyboard_key_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-xxhdpi_dotdash_shift_off_pressed.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-xxhdpi/dotdash_shift_off_pressed.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-hdpi_btn_keyboard_key_pressed_klp_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-hdpi/btn_keyboard_key_pressed_klp_light.9.png"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/raw_tone800hz.wav.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/raw/tone800hz.wav"
+    },
+    {
+        "merged": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/build/intermediates/res/merged/debug/drawable-mdpi_btn_keyboard_key_pressed_klp_light.9.png.flat",
+        "source": "/home/indus/Desktop/Video assets/dot and dash/dotdash-keyboard-android-master/app/src/main/res/drawable-mdpi/btn_keyboard_key_pressed_klp_light.9.png"
+    }
+]

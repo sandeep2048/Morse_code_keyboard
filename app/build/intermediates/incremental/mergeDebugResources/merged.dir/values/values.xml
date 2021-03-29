@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <string-array name="dit_dah_chars_labels">
+        <item>Unicode (···–––···)</item>
+        <item ns1:ignore="TypographyEllipsis">ASCII (. . . - - - . . .)</item>
+    </string-array>
+    <string-array name="dit_dah_chars_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="newline_labels">
+        <!-- TODO: Update the Preferences so that this label changes
+        depending on your Unicode/ASCII display pref -->
+        <item>. - . - or . - . - . .</item>
+        <item>. - . -</item>
+        <item>. - . - . .</item>
+        <item>No newline character</item>
+    </string-array>
+    <string-array name="newline_values">
+        <item>.-.-|.-.-..</item>
+        <item>.-.-</item>
+        <item>.-.-..</item>
+        <item>X</item>
+    </string-array>
+    <color name="key_text_color_holo">@android:color/white</color>
+    <string name="app_name">DotDash Keyboard</string>
+    <string name="autocap">Auto-capitalize</string>
+    <string name="autocap_summary">Automatically capitalize the first word in each sentence.</string>
+    <string name="caps_lock_all">CAPS</string>
+    <string name="caps_lock_next">Caps</string>
+    <string name="caps_lock_off">caps</string>
+    <string name="dash_key_on_left">Dash key on the left</string>
+    <string name="dash_key_on_left_summary">By default the Dot key is on the left and the Dash key is on the right. Enable this if you\'d rather have the Dash key on the left and the Dot key on the right.</string>
+    <string name="dit_dah_chars">Unicode or ASCII display</string>
+    <string name="enable_util_kbd">Enable utility keyboard (experimental)</string>
+    <string name="enable_util_kbd_summary">Enable the utility keyboard. Swipe left or right to access it. It may still be a little buggy.</string>
+    <string name="enter">Enter</string>
+    <string name="newline">Carriage return</string>
+    <string name="newline_disabled">disabled</string>
+    <string name="tap_for_letters_and_numbers">Tap for letters and numbers</string>
+    <string name="tap_for_punctuation">Tap for punctuation</string>
+    <style name="PrefsTheme" parent="@android:style/Theme.Light"/>
+    <style name="cheat_sheet_bottom_row" parent="@style/cheat_sheet_row">
+        <item name="android:layout_marginBottom">20dp</item>
+    </style>
+    <style name="cheat_sheet_row">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="cheat_sheet_table">
+	    <item name="android:layout_margin">20dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">center</item>
+  	</style>
+    <style name="cheat_sheet_top_row" parent="@style/cheat_sheet_row">
+        <item name="android:layout_marginTop">20dp</item>
+    </style>
+    <style name="code" parent="@style/code_no_padding">
+        <item name="android:layout_marginRight">20dp</item>
+    </style>
+    <style name="code_no_padding" parent="@android:style/TextAppearance.Small">
+    	<item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">left</item>
+    </style>
+    <style name="symbol" parent="@android:style/TextAppearance.Small">
+    	<item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">7dp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="tap_instructions" parent="@style/symbol">
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_marginTop">10dp</item>
+    </style>
+</resources>

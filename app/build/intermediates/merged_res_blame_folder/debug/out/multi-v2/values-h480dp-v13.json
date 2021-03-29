@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/indus/AndroidStudioProjects/Morsecode/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h480dp-v13/values-h480dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/indus/AndroidStudioProjects/Morsecode/app/src/main/res/values-h480dp/style.xml",
+                    "from": {
+                        "startLines": "37,27,21,34,18,13,2,9",
+                        "startColumns": "4,4,1,4,4,4,4,4",
+                        "startOffsets": "1839,1347,1063,1697,937,672,114,480",
+                        "endLines": "39,33,26,36,20,17,8,12",
+                        "endColumns": "12,12,11,12,12,12,12,12",
+                        "endOffsets": "1982,1692,1342,1834,1061,932,475,667"
+                    },
+                    "to": {
+                        "startLines": "2,5,12,18,21,24,29,36",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,203,553,837,979,1108,1373,1739",
+                        "endLines": "4,11,17,20,23,28,35,39",
+                        "endColumns": "12,12,11,12,12,12,12,12",
+                        "endOffsets": "198,548,832,974,1103,1368,1734,1926"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+com/sanson/dotdash/BuildConfig.java
+ com.sanson.dotdash.BuildConfig
+com/sanson/dotdash/DotDashIMEService.java
+ com.sanson.dotdash.DotDashIMEService
+ com.sanson.dotdash.DotDashIMEService$1
+com/sanson/dotdash/DotDashKeyboard.java
+ com.sanson.dotdash.DotDashKeyboard
+com/sanson/dotdash/DotDashPrefs.java
+ com.sanson.dotdash.DotDashPrefs
+org/pocketworkstation/pckeyboard/AutoSummaryListPreference.java
+ org.pocketworkstation.pckeyboard.AutoSummaryListPreference
+com/sanson/dotdash/DotDashKeyboardView.java
+ com.sanson.dotdash.DotDashKeyboardView
+ com.sanson.dotdash.DotDashKeyboardView$1
+ com.sanson.dotdash.DotDashKeyboardView$2
+ com.sanson.dotdash.DotDashKeyboardView$3
+ com.sanson.dotdash.DotDashKeyboardView$4

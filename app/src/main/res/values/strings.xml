@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DotDash Keyboard</string>
+    <string name="caps_lock_off">caps</string>
+    <string name="caps_lock_next">Caps</string>
+    <string name="caps_lock_all">CAPS</string>
+    <string name="tap_for_punctuation">Tap for punctuation</string>
+    <string name="tap_for_letters_and_numbers">Tap for letters and numbers</string>
+
+    <string name="autocap">Auto-capitalize</string>
+    <string name="autocap_summary">Automatically capitalize the first word in each sentence.</string>
+    <string name="newline">Carriage return</string>
+    <string name="enable_util_kbd">Enable utility keyboard (experimental)</string>
+	<string name="enable_util_kbd_summary">Enable the utility keyboard. Swipe left or right to access it. It may still be a little buggy.</string>
+	<string name="enter">Enter</string>
+    <string name="newline_disabled">disabled</string>
+    <string name="dit_dah_chars">Unicode or ASCII display</string>
+    <string name="dash_key_on_left">Dash key on the left</string>
+    <string name="dash_key_on_left_summary">By default the Dot key is on the left and the Dash key is on the right. Enable this if you\'d rather have the Dash key on the left and the Dot key on the right.</string>
+
+</resources>
